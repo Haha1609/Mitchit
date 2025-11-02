@@ -1,0 +1,20 @@
+file_format: "1"
+id: Mitchit
+name: Mitchit
+type: shield
+url: https://github.com/Haha1609/Mitchit
+type: board
+arch: arm
+output:
+  - usb
+  - ble
+features:
+  - keys
+  - studio
+  - pointer
+  - encoder
+siblings:
+  - Mitchit_left
+  - Mitchit_right
+
+  

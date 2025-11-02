@@ -1,0 +1,10 @@
+# No whitespace after the comma or in your part name!
+config SHIELD_MITCHIT_LEFT
+    def_bool $(shields_list_contains,Mitchit_left)
+
+# No whitespace after the comma or in your part name!
+config SHIELD_MITCHIT_RIGHT
+    def_bool $(shields_list_contains,Mitchit_right)
+
+
+CONFIG_ZMK_SOFT_OFF=y
