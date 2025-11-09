@@ -24,11 +24,11 @@ layers:
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-right-bold$$
   - Y
+  - U
   - I
   - O
   - P
   - {t: '[', s: '{'}
-  - {t: ']', s: '}'}
   - $$mdi:apple-keyboard-caps$$
   - A
   - S
@@ -38,10 +38,10 @@ layers:
   - X
   - X
   - H
+  - J
   - K
   - L
   - {t: ;, s: ':'}
-  - {t: '''', s: '"'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:apple-keyboard-shift$$
   - Z
@@ -56,7 +56,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-control$$
   - LGUI
   - $$mdi:apple-keyboard-option$$
@@ -67,10 +67,10 @@ layers:
   - $$mdi:arrow-down-bold$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
-  - $$mdi:arrow-up-bold$$
-  - $$mdi:arrow-down-bold$$
-  - $$mdi:arrow-left-bold$$
-  - $$mdi:arrow-right-bold$$
+  - $$mdi:keyboard-space$$
+  - $$mdi:keyboard-space$$
+  - $$mdi:keyboard-space$$
+  - $$mdi:keyboard-space$$
   Lower Layer:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
