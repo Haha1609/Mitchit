@@ -41,6 +41,8 @@
     flavor = "balanced";
 };
 
+&lt { tapping-term-ms = <100>; };
+
 / {
     behaviors {
         Scroll_D_U: Scroll_D_U {
