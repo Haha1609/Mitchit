@@ -125,7 +125,7 @@
 &trans     &trans     &trans  &trans  &trans  &mkp MB3  &mmv MOVE_DOWN   &kp DOWN   &kp ENTER     &trans  &trans  &trans  &trans     &trans
             >;
 
-            sensor-bindings = <&Scroll_LR>, <&Scroll_LR>;
+            sensor-bindings = <&Scroll_RL>, <&Scroll_RL>;
         };
 
         raise_layer {
